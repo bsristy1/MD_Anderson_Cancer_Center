@@ -88,5 +88,9 @@ Prototype queries were written in MySQL and backend code was prepared as a bluep
 
 ---
 
-## Repository Structure
+## Author
+
+**Bhargav Sristy**  
+Supervised by **Dr. Sachet Shukla**  
+Date: 04 August 2022
 
